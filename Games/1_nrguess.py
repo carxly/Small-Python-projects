@@ -2,7 +2,7 @@ import random
 print('--------------------------')
 print('Welcome to the number guessing game!')
 print('--------------------------')
-print('You need to guess the correct number between 0-100.')
+print('You need to guess the correct number between 1-100.')
 print('For that, you will have a certain amount of tries that you will be choosing yourself.')
 play = True
 while(play == True):
