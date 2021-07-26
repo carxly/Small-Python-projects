@@ -5,5 +5,3 @@ and so on... I've done that for others and myself to see my progression and adva
 
 Usually the Python file names will explain the project but if there's more explanation needed, then all the useful
 information about the project will be the comments at the top of the file.
-
-Hope these small projects will be helpful in any way!
